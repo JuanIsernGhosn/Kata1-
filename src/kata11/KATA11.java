@@ -18,7 +18,6 @@ public class KATA11 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola");
         Calendar calendar;
         calendar = GregorianCalendar.getInstance();
         calendar.set(1900+49,7,22);
@@ -28,7 +27,4 @@ public class KATA11 {
         System.out.println(persona.getAge());
         System.out.println("");
     }
-    
-    
-
 }
