@@ -1,4 +1,4 @@
-# ULPGC-IS2-Kata_1
+# Kata_1
 
 Primer ejercicio práctico de la asignatura de Ingeniería de los Sistemas de Información 2
 
